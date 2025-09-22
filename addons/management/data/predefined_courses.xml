@@ -1,0 +1,27 @@
+<odoo>
+    <record id="course_cpp" model="student.course">
+        <field name="name">C++</field>
+        <field name="code">CSE101</field>
+        <field name="credit">2</field>
+    </record>
+    <record id="course_java" model="student.course">
+        <field name="name">JAVA</field>
+        <field name="code">CSE102</field>
+        <field name="credit">2</field>
+    </record>
+    <record id="course_ds" model="student.course">
+        <field name="name">Data Science</field>
+        <field name="code">CSE103</field>
+        <field name="credit">2</field>
+    </record>
+    <record id="course_ai" model="student.course">
+        <field name="name">AI</field>
+        <field name="code">CSE104</field>
+        <field name="credit">2</field>
+    </record>
+    <record id="course_arch" model="student.course">
+        <field name="name">Architecture</field>
+        <field name="code">CSE105</field>
+        <field name="credit">2</field>
+    </record>
+</odoo>
